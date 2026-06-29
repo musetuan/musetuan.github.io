@@ -549,6 +549,32 @@
             "keywords": ["幼年版"]
         }],
         "starna": [{
+            "id": "mao-260627-p1",
+            "year": 2026,
+            "month": 6,
+            "day": 24,
+            "keywords": []
+        }, {
+            "id": "mao-260626-p1",
+            "year": 2026,
+            "month": 6,
+            "day": 24,
+            "keywords": []
+        }, {
+            "id": "mao-260624-p2",
+            "name": "戴珍珠耳环的星娜喵",
+            "name#en": "Starna with a pearl earring",
+            "year": 2026,
+            "month": 6,
+            "day": 24,
+            "keywords": []
+        }, {
+            "id": "mao-260624-p1",
+            "year": 2026,
+            "month": 6,
+            "day": 24,
+            "keywords": []
+        }, {
             "id": "mao-260525-p2",
             "name": "神奇女侠星娜喵",
             "name#en": "Wonder Starna",
