@@ -108,6 +108,22 @@
             "keywords": ["watercolor"]
         }],
         "mao": [{
+            "id": "mao-260710-p1",
+            "name": "理发摸凹喵",
+            "name#en": "Mor-Ow Meow Haircut",
+            "year": 2026,
+            "month": 7,
+            "day": 10,
+            "keywords": []
+        }, {
+            "id": "mao-260630-p1",
+            "name": "云上摸凹喵",
+            "name#en": "Mor-Ow Meow on Cloud",
+            "year": 2026,
+            "month": 6,
+            "day": 30,
+            "keywords": []
+        }, {
             "id": "mao-260525-p1",
             "name": "自由女神摸凹喵",
             "name#en": "Liberty Mor-Ow Meow",
@@ -549,6 +565,34 @@
             "keywords": ["幼年版"]
         }],
         "starna": [{
+            "id": "mao-260703-p1",
+            "name": "水手服星娜喵",
+            "name#en": "Starna Sailor Suit",
+            "year": 2026,
+            "month": 7,
+            "day": 3,
+            "keywords": []
+        }, {
+            "id": "mao-260702-p2",
+            "year": 2026,
+            "month": 7,
+            "day": 2,
+            "keywords": []
+        }, {
+            "id": "mao-260702-p1",
+            "name": "星娜喵欧洲女王",
+            "name#en": "Starna Queen",
+            "year": 2026,
+            "month": 7,
+            "day": 2,
+            "keywords": []
+        }, {
+            "id": "mao-260701-p1",
+            "year": 2026,
+            "month": 7,
+            "day": 1,
+            "keywords": []
+        }, {
             "id": "mao-260627-p1",
             "year": 2026,
             "month": 6,
