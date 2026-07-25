@@ -108,6 +108,22 @@
             "keywords": ["watercolor"]
         }],
         "mao": [{
+            "id": "mao-260720-p3",
+            "name": "摸凹喵 - 创作者麻麻生日特别版",
+            "name#en": "Mor-Ow Meow for Mom Birthday Edition",
+            "year": 2026,
+            "month": 7,
+            "day": 20,
+            "keywords": []
+        }, {
+            "id": "mao-260717-p1",
+            "name": "摸凹喵 - 创作者 Daddy 生日特别版",
+            "name#en": "Mor-Ow Meow for Daddy Birthday Edition",
+            "year": 2026,
+            "month": 7,
+            "day": 17,
+            "keywords": []
+        }, {
             "id": "mao-260710-p1",
             "name": "理发摸凹喵",
             "name#en": "Mor-Ow Meow Haircut",
@@ -565,6 +581,36 @@
             "keywords": ["幼年版"]
         }],
         "starna": [{
+            "id": "mao-260720-p2",
+            "year": 2026,
+            "month": 7,
+            "day": 20,
+            "keywords": []
+        }, {
+            "id": "mao-260720-p1",
+            "name": "小兰星娜喵",
+            "name#en": "Starna Ran",
+            "year": 2026,
+            "month": 7,
+            "day": 20,
+            "keywords": []
+        }, {
+            "id": "mao-260718-p1",
+            "name": "星娜杨喵贵妃",
+            "name#en": "Princess Starna Yang Kwei Fei",
+            "year": 2026,
+            "month": 7,
+            "day": 18,
+            "keywords": []
+        }, {
+            "id": "mao-260710-p2",
+            "name": "星娜喵桃花公主",
+            "name#en": "Princess Peach Starna",
+            "year": 2026,
+            "month": 7,
+            "day": 10,
+            "keywords": []
+        }, {
             "id": "mao-260703-p1",
             "name": "水手服星娜喵",
             "name#en": "Starna Sailor Suit",
