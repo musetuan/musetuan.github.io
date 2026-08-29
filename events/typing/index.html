@@ -17,14 +17,15 @@
     }
     </style>
     <script>
-    let time;
     function onPageLoad() {
+        let time;
         let inputEle = document.getElementById("input");
         let duration = document.getElementById("duration");
         inputEle.addEventListener("keypress", ev => {
             if (!inputEle.value) time = new Date();
             else duration.innerText = ((new Date().getTime() - time.getTime()) / 1000) + "s";
         });
+        inputEle.focus();
     }
     </script>
 </head>
@@ -38,7 +39,7 @@
 	</header>
 	<section class="x-part-greetings x-bg-emphasis" >
 		<section>
-			<input type="text" id="input" />
+			<input type="text" id="input" autocomplete="off" />
 		</section>
 		<section>
 			<span id="duration" />

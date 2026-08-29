@@ -108,6 +108,71 @@
             "keywords": ["watercolor"]
         }],
         "mao": [{
+            "id": "mao-260823-p1",
+            "name": "摸凹喵穿蝴蝶结",
+            "name#en": "Mor-Ow Meow with Bowknot",
+            "year": 2026,
+            "month": 8,
+            "day": 23,
+            "keywords": []
+        }, {
+            "id": "mao-260822-p5",
+            "year": 2026,
+            "month": 8,
+            "day": 22,
+            "keywords": []
+        }, {
+            "id": "mao-260822-p4",
+            "name": "摸凹喵 cosplay 远山荷叶",
+            "name#en": "Mor-Ow Meow cosplay 遠山 和葉",
+            "name#ja": "Mor-Ow Meow cosplay Kirsten Thomas",
+            "year": 2026,
+            "month": 8,
+            "day": 22,
+            "keywords": []
+        }, {
+            "id": "mao-260822-p3",
+            "name": "摸凹喵歌唱中",
+            "name#en": "Mor-Ow Meow is Singing",
+            "year": 2026,
+            "month": 8,
+            "day": 22,
+            "keywords": []
+        }, {
+            "id": "mao-260813-p1",
+            "name": "摸凹喵 cosplay 江户川柯南",
+            "name#en": "Mor-Ow Meow cosplay Conan Edogawa",
+            "name#ja": "Mor-Ow Meow cosplay 江戸川 コナン",
+            "year": 2026,
+            "month": 8,
+            "day": 13,
+            "keywords": []
+        }, {
+            "id": "mao-260812-p1",
+            "name": "摸凹喵 cosplay 黑羽快斗",
+            "name#en": "Mor-Ow Meow cosplay Kuroba Kaito",
+            "name#ja": "Mor-Ow Meow cosplay 黒羽 快斗",
+            "year": 2026,
+            "month": 8,
+            "day": 12,
+            "keywords": []
+        }, {
+            "id": "mao-260801-p3",
+            "name": "芭蕾摸凹喵",
+            "name#en": "Mor-Ow Meow Ballet",
+            "year": 2026,
+            "month": 8,
+            "day": 1,
+            "keywords": []
+        }, {
+            "id": "mao-260801-p2",
+            "name": "胜利摸凹喵女神",
+            "name#en": "Goddess of Victory Mor-Ow Meow",
+            "year": 2026,
+            "month": 8,
+            "day": 1,
+            "keywords": []
+        }, {
             "id": "mao-260720-p3",
             "name": "摸凹喵 - 创作者麻麻生日特别版",
             "name#en": "Mor-Ow Meow for Mom Birthday Edition",
@@ -520,13 +585,13 @@
         }, {
             "id": "mao-26-01-p-10",
             "name": "摸凹喵大脸版",
-            "name#en": "Mo-Ow Meow Big Face",
+            "name#en": "Mor-Ow Meow Big Face",
             "year": 2026,
             "month": 1
         }, {
             "id": "mao-26-01-p-09",
             "name": "摸凹喵骑车",
-            "name#en": "Mo-Ow Meow is Riding",
+            "name#en": "Mor-Ow Meow is Riding",
             "year": 2026,
             "month": 1
         }, {
@@ -543,8 +608,8 @@
             "month": 1
         }, {
             "id": "mao-26-01-p-06",
-            "name": "摸凹喵照镜子",
-            "name#en": "Mor-Ow Meow Looking in the Mirror",
+            "name": "理发摸凹喵",
+            "name#en": "Mor-Ow Meow Haircut",
             "year": 2026,
             "month": 1
         }, {
@@ -581,6 +646,113 @@
             "keywords": ["幼年版"]
         }],
         "starna": [{
+            "id": "mao-260825-p2",
+            "year": 2026,
+            "month": 8,
+            "day": 25,
+            "keywords": []
+        }, {
+            "id": "mao-260825-p1",
+            "year": 2026,
+            "month": 8,
+            "day": 25,
+            "keywords": []
+        }, {
+            "id": "mao-260822-p2",
+            "name": "星娜喵 cosplay 铃木园子",
+            "name#en": "Starna cosplay Suzuki Sonoko",
+            "name#ja": "Starna cosplay 鈴木 園子",
+            "year": 2026,
+            "month": 8,
+            "day": 22,
+            "keywords": []
+        }, {
+            "id": "mao-260822-p1",
+            "name": "星娜喵 cosplay 毛利兰",
+            "name#en": "Starna cosplay Mouri Ran",
+            "name#ja": "Starna cosplay 毛利蘭",
+            "year": 2026,
+            "month": 8,
+            "day": 22,
+            "keywords": []
+        }, {
+            "id": "mao-260815-p2",
+            "year": 2026,
+            "month": 8,
+            "day": 15,
+            "keywords": []
+        }, {
+            "id": "mao-260815-p1",
+            "year": 2026,
+            "month": 8,
+            "day": 15,
+            "keywords": []
+        }, {
+            "id": "mao-260806-p4",
+            "year": 2026,
+            "month": 8,
+            "day": 6,
+            "keywords": []
+        }, {
+            "id": "mao-260806-p3",
+            "year": 2026,
+            "month": 8,
+            "day": 6,
+            "keywords": []
+        }, {
+            "id": "mao-260806-p2",
+            "year": 2026,
+            "month": 8,
+            "day": 6,
+            "keywords": []
+        }, {
+            "id": "mao-260806-p1",
+            "year": 2026,
+            "month": 8,
+            "day": 6,
+            "keywords": []
+        }, {
+            "id": "mao-260801-p1",
+            "year": 2026,
+            "month": 8,
+            "day": 1,
+            "keywords": []
+        }, {
+            "id": "mao-260730-p3",
+            "year": 2026,
+            "month": 7,
+            "day": 30,
+            "keywords": []
+        }, {
+            "id": "mao-260730-p2",
+            "name": "大长今星娜喵",
+            "name#en": "Starna Dae Jang Geum",
+            "name#ko": "Starna 대장금",
+            "year": 2026,
+            "month": 7,
+            "day": 30,
+            "keywords": []
+        }, {
+            "id": "mao-260730-p1",
+            "year": 2026,
+            "month": 7,
+            "day": 30,
+            "keywords": []
+        }, {
+            "id": "mao-260729-p2",
+            "name": "星娜喵空姐",
+            "name#en": "Airline Stewardess Starna",
+            "year": 2026,
+            "month": 7,
+            "day": 29,
+            "keywords": []
+        }, {
+            "id": "mao-260729-p1",
+            "year": 2026,
+            "month": 7,
+            "day": 29,
+            "keywords": []
+        }, {
             "id": "mao-260720-p2",
             "year": 2026,
             "month": 7,
