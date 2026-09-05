@@ -1,6 +1,30 @@
 {
     "items": {
         "default": [{
+            "id": "paint-260820",
+            "name": "鲸鱼",
+            "name#en": "Whale",
+            "year": 2026,
+            "month": 8,
+            "day": 20,
+            "keywords": ["digit-pen"]
+        }, {
+            "id": "paint-260818",
+            "name": "啾飒",
+            "name#en": "Lovely Parrots",
+            "year": 2026,
+            "month": 8,
+            "day": 18,
+            "keywords": ["digit-pen"]
+        }, {
+            "id": "paint-260812",
+            "name": "小鱼",
+            "name#en": "Goldfish",
+            "year": 2026,
+            "month": 8,
+            "day": 12,
+            "keywords": ["digit-pen"]
+        }, {
             "id": "rescue",
             "name": "飞行拯救生命",
             "name#en": "Rescue by Flying",
@@ -108,6 +132,14 @@
             "keywords": ["watercolor"]
         }],
         "mao": [{
+            "id": "mao-260903-p1",
+            "name": "古典摸凹喵",
+            "name#en": "Mor-Ow Meow with Chinese clothing",
+            "year": 2026,
+            "month": 9,
+            "day": 3,
+            "keywords": ["古装"]
+        }, {
             "id": "mao-260823-p1",
             "name": "摸凹喵穿蝴蝶结",
             "name#en": "Mor-Ow Meow with Bowknot",
