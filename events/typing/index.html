@@ -10,20 +10,42 @@
     <link rel="icon" type="image/png" href="../../images/logos/logo-2026-paint.png" />
     <style>
     body > header:first-child + section {
-        height: 600px;
+        min-height: 600px;
     }
     body > header:first-child + section > section:first-child > input {
         font-size: 20px; width: 80%;
     }
     </style>
     <script>
+    function toTime(time) {
+        var h = time.getHours();
+        var m = time.getMinutes();
+        var s = time.getSeconds();
+        return (h > 9 ? "" : "0") + h + ":" + (m > 9 ? "" : "0") + m + ":" + (s > 9 ? "" : "0") + s;
+    }
     function onPageLoad() {
-        let time;
-        let inputEle = document.getElementById("input");
-        let duration = document.getElementById("duration");
+        const col = [];
+        let item;
+        const inputEle = document.getElementById("input");
+        const duration = document.getElementById("duration");
+        const list = document.getElementById("list");
         inputEle.addEventListener("keypress", ev => {
-            if (!inputEle.value) time = new Date();
-            else duration.innerText = ((new Date().getTime() - time.getTime()) / 1000) + "s";
+            var text = inputEle.value;
+            if (!text || !item) {
+                item = { start: new Date(), value: "" };
+                col.push(item);
+            } else if (ev.keyCode == 13) {
+                const li = document.createElement("li");
+                const s = toTime(item.start) + " | " + (item.cost ?? -1) + "s | " + inputEle.value;
+                const len = list.children.length;
+                if (len > 0 && list.children[len - 1].innerHTML === s) return;
+                li.innerText = s;
+                list.appendChild(li);
+            } else {
+                item.cost = (new Date().getTime() - item.start.getTime()) / 1000
+                duration.innerText = item.cost + "s";
+                item.value = text;
+            }
         });
         inputEle.focus();
     }
@@ -43,6 +65,10 @@
 		</section>
 		<section>
 			<span id="duration" />
+		</section>
+		<section>
+			<ol id="list">
+            </ol>
 		</section>
 	</section>
 	<footer>
