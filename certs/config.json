@@ -5,6 +5,18 @@
         "scope": "match",
         "season": "第9届",
         "year": 2026,
+        "month": 7,
+        "group": "总决赛 业余组儿童A组",
+        "ranking": "一等奖",
+        "publisher": "柏斯音乐基金会",
+        "keywords": ["instrumental performance", "match"],
+        "images": []
+    }, {
+        "id": "kawai-sh",
+        "name": "Kawai 亚洲钢琴大赛",
+        "scope": "match",
+        "season": "第9届",
+        "year": 2026,
         "month": 5,
         "group": "上海赛区业余组儿童A组",
         "ranking": "二等奖",
