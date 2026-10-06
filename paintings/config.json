@@ -132,6 +132,14 @@
             "keywords": ["watercolor"]
         }],
         "mao": [{
+            "id": "mao-261002-p2",
+            "name": "超人摸凹喵",
+            "name#en": "Super Mor-Ow Meow",
+            "year": 2026,
+            "month": 10,
+            "day": 2,
+            "keywords": []
+        }, {
             "id": "mao-260903-p1",
             "name": "古典摸凹喵",
             "name#en": "Mor-Ow Meow with Chinese clothing",
